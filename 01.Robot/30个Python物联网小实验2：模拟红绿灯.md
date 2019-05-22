@@ -230,4 +230,4 @@ while True:
 
 ```
 
-好了，本次介绍就到这里，这个系列的全文会收录在我的github目录，欢迎大家star和沟通：[https://github.com/asukafighting/RaspberryPiHacker](https://github.com/asukafighting/RaspberryPiHacker)
+好了，本次介绍就到这里，这个系列的全文会收录在我的github目录，欢迎大家star和沟通：[https://github.com/asukafighting/RaspberrypiHandbyHand](https://github.com/asukafighting/RaspberrypiHandbyHand)

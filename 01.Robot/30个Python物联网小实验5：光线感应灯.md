@@ -59,4 +59,4 @@ pause()
 
 - 代码的核心在于将`sensor`的状态直接提供给`led`，这样光线传感器检测到亮光的时候`led`熄灭，检测不到光线的时候，`led`点亮。
 
-好了，本次介绍就到这里，这个系列的全文会收录在我的`github`目录，欢迎大家`star`和沟通：[https://github.com/asukafighting/RaspberryPiHacker](https://github.com/asukafighting/RaspberryPiHacker)
+好了，本次介绍就到这里，这个系列的全文会收录在我的`github`目录，欢迎大家`star`和沟通：[https://github.com/asukafighting/RaspberrypiHandbyHand](https://github.com/asukafighting/RaspberrypiHandbyHand)

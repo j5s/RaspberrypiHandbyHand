@@ -192,4 +192,4 @@ led.off()
 
 - 程序开始执行后，在(2,5)秒随机点亮LED灯，谁抢险按下按钮，就会显示谁赢了。
 
-好了，本次介绍就到这里，这个系列的全文会收录在我的github目录，欢迎大家star和沟通：[https://github.com/asukafighting/RaspberryPiHacker](https://github.com/asukafighting/RaspberryPiHacker)
+好了，本次介绍就到这里，这个系列的全文会收录在我的github目录，欢迎大家star和沟通：[https://github.com/asukafighting/RaspberrypiHandbyHand](https://github.com/asukafighting/RaspberrypiHandbyHand)

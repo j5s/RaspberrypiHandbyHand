@@ -174,7 +174,7 @@ $ ./starwars
 
 即可听到星球大战的主题曲。
 
-上述源码的完整版本请见：https://github.com/asukafighting/RaspberryPiHacker/tree/master/01.Robot
+上述源码的完整版本请见：https://github.com/asukafighting/RaspberrypiHandbyHand/tree/master/01.Robot
 
 
 ### 激光传感器
@@ -186,4 +186,4 @@ $ ./starwars
 
 点亮激光传感器的代码跟之前的LED是一模一样的，支持闪烁、淡入淡出等效果，在这里不做赘述。
 
-好了，本次介绍就到这里，这个系列的全文会收录在我的github目录，欢迎大家star和沟通：[https://github.com/asukafighting/RaspberryPiHacker](https://github.com/asukafighting/RaspberryPiHacker)
+好了，本次介绍就到这里，这个系列的全文会收录在我的github目录，欢迎大家star和沟通：[https://github.com/asukafighting/RaspberrypiHandbyHand](https://github.com/asukafighting/RaspberrypiHandbyHand)
